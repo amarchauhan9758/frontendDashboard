@@ -54,7 +54,7 @@ src/
 ├── pages/
 │ ├── UsersDashboard.jsx
 │ └── ProductDashboard.jsx
-|\_\_ ProductDetails.jsx
+|__ ProductDetails.jsx
 ├── App.jsx
 ├── index.js
 
@@ -73,17 +73,12 @@ git clone https://github.com/your-username/frontend-dashboard.git
 cd frontend-dashboard
 Install dependencies:
 
-bash
-Copy
-Edit
+
 npm install
 # or
 yarn install
 Start the development server:
 
-bash
-Copy
-Edit
 npm start
 # or
 yarn start
